@@ -15,7 +15,9 @@ Usage
 
 1. Get your own copy of these files
 
+```
 prompt%> git clone https://github.com/UW-Madison-ACI/chtc-samples.git
+```
 
 2. Go to the directory containing these files
 
