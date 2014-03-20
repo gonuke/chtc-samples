@@ -14,19 +14,22 @@ Usage
 =======
 
 1. Get your own copy of these files
-   ```
-   prompt%> git clone https://github.com/UW-Madison-ACI/chtc-samples.git
-   ```
+    ```
+    prompt%> git clone https://github.com/UW-Madison-ACI/chtc-samples.git
+    ```
+
 2. Go to the directory containing these files
-   ```
-   prompt%> cd chtc-samples/mpi-hello-world
-   ```
+    ```
+    prompt%> cd chtc-samples/mpi-hello-world
+    ```
+
 3. Build the executable
-```
-prompt%> make helloworld
-```
+    ```
+    prompt%> make helloworld
+    ```
+
 4. Submit the task to the SLURM queue
-```
-prompt%> sbatch submit.sh
-```
+    ```
+    prompt%> sbatch submit.sh
+    ```
 
